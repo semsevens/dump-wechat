@@ -1,0 +1,10 @@
+部分手机root后，使用adb root会出现这个提示。
+原因是root不彻底。
+
+解决方案：
+	1. 下载并安装 adb-Insecure.apk下载地址：https://forum.xda-developers.com/attachment.php?attachmentid=3008527&d=1415633566
+	2. 执行adb命令：
+	adb shell
+	su
+	setenforce 0
+打开adb-Insecure，勾选 “Enable insecure adbd”

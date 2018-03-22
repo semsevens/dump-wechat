@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="set_service" value="true" />
+    <boolean name="first_launch_weixin" value="false" />
+    <int name="appbrand_video_player" value="-1" />
+    <int name="default_uin" value="-2019447723" />
+    <int name="update_swip_back_status" value="0" />
+    <int name="launch_last_status" value="2" />
+    <string name="support.weixin.qq.com">szsupport.weixin.qq.com</string>
+    <boolean name="settings_fully_exit" value="false" />
+    <string name="builtin_short_ips">10,163.177.81.139,80,szshort.weixin.qq.com|18,183.3.224.141,80,szshort.weixin.qq.com|6,121.51.140.139,80,szshort.weixin.qq.com|10,163.177.81.139,80,szextshort.weixin.qq.com|18,183.3.224.141,80,szextshort.weixin.qq.com|6,121.51.140.139,80,szextshort.weixin.qq.com|6,127.0.0.1,80,localhost|</string>
+    <long name="NFC_REPORT_TIME" value="598655149" />
+</map>
